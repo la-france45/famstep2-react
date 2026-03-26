@@ -39,11 +39,14 @@ TODO完了（ポイント獲得）
 ### 親ユーザートップ
 ![親トップ](./images/parent-top.png)
 
-### TODO編集画面
-![TODO編集](./images/todo-edit.png)
+### TODO管理画面
+![TODO管理](./images/todo-edit.png)
 
-### ポイント編集画面
-![point編集](./images/point-edit.png)
+### TODO編集画面
+![TODO編集](./images/todo-create.png)
+
+### ポイント管理画面
+![point管理](./images/point-edit.png)
 
 ### 子ユーザートップ
 ![子トップ](./images/child-top.png)
